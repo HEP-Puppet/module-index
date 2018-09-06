@@ -17,8 +17,7 @@
  - [GridFTP](https://github.com/cern-it-sdc-id/puppet-gridftp)
  - [HTCondor](https://github.com/HEP-Puppet/htcondor)
  - HTCondor-CE
-   - [CERNops](https://github.com/cernops/puppet-htcondor_ce)
-   - [CERN batch team](https://gitlab.cern.ch/batch-team/htcondorce-cern)
+   - [CERNops](https://github.com/cernops/puppet-htcondor_ce/tree/cern_current)
  - [PerfSonar](https://github.com/HEP-Puppet/perfsonar)
  - [Torque/Maui](https://github.com/HEP-Puppet/torque)
    - [Munge](https://github.com/HEP-Puppet/munge)
