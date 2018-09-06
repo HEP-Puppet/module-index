@@ -18,7 +18,7 @@
  - [HTCondor](https://github.com/HEP-Puppet/htcondor)
  - HTCondor-CE
    - [CERNops](https://github.com/cernops/puppet-htcondor_ce)
-   - [CERN batch team](https://gitlab.cern.ch/batch-team/htcondorce-cern_
+   - [CERN batch team](https://gitlab.cern.ch/batch-team/htcondorce-cern)
  - [PerfSonar](https://github.com/HEP-Puppet/perfsonar)
  - [Torque/Maui](https://github.com/HEP-Puppet/torque)
    - [Munge](https://github.com/HEP-Puppet/munge)
